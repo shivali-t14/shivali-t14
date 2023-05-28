@@ -13,6 +13,8 @@
 
 
 ## Connect with me at:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://www.linkedin.com/in/shivali-t-b53409182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivalitelgar" height="30" width="40" /></a></p>
+
+
+<a href="https://hashnode.com/@shivali14" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" alt="shivalitelgar" height="30" width="40" /></a></p>
