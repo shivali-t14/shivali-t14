@@ -22,6 +22,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="git" width="40" height="40"/> </a>
 
 Blog posts
-<!-- BLOGPOSTS:START --> 
-
-<!-- BLOGPOSTS:END -->
+<!-- BLOGPOSTS:START -->
+ - 🚀 [Demo blog](https://letslearntogether.hashnode.dev/demo-blog)<!-- BLOGPOSTS:END -->
