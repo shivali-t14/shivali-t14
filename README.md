@@ -20,3 +20,8 @@
 <h3 align="left">Version Control System :</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="80" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="git" width="40" height="40"/> </a>
+
+Blog posts
+<!-- BLOGPOSTS:START --> 
+
+<!-- BLOGPOSTS:END -->
