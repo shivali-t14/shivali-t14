@@ -23,4 +23,4 @@
 
 Blog posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Demo blog](https://letslearntogether.hashnode.dev/demo-blog)<!-- BLOGPOSTS:END -->
+ - 🚀 [Git and Git Hub](https://letslearntogether.hashnode.dev/git-and-git-hub)<!-- BLOGPOSTS:END -->
