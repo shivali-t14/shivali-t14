@@ -23,4 +23,5 @@
 
 Blog posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Working with Git and Git Hub](https://letslearntogether.hashnode.dev/working-with-git-and-git-hub)
  - 🚀 [Git and Git Hub](https://letslearntogether.hashnode.dev/git-and-git-hub)<!-- BLOGPOSTS:END -->
